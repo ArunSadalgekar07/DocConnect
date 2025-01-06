@@ -65,8 +65,4 @@ The **Doctor Appointment System** is a full-stack web application designed to si
 
 ---
 
-### Steps  
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/your-repo/doctor-appointment-system.git
-   cd doctor-appointment-system
+
